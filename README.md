@@ -7,11 +7,11 @@ I'm a current Master of Environmental Data Science student at the University of 
 
 What am I up to? 
  🔭 I’m currently working on gettig my Masters in Data Science! I'm also a Teaching Assistant for Entrepreneurship through the Technology Management Program at UCSB.
- 🌱 I’m currently learning Python, ethics in data science, working with environmental datasets, & statistics for environmental data science
+ 🌱 I’m currently learning about: machine learning for R, ethics and bias in data science, data visualization and communication, & working on a project to calculate total emissions for Darn Tough Vermont (using the GHG Protocol). 
 
 
 What do I like to do? 
-🏃‍♀️ Run! I'm running my first marathon soon.
+🏃‍♀️ Run! I'm running my second marathon soon.
 🥾 Hike in the Santa Barbara mountains
 ⛷ Ski in the Sierras
 🏄‍♀️ Surf when there's waves!
@@ -22,6 +22,7 @@ What do I like to do?
 -5 years in Software Technology Consulting 
 ### Education:
 -Master of Environmental Data Science - University of California, Santa Barbara - Expected June 2024
+
 -Bachelor of Science in Business Administration - University of Vermont - May 2018
 
 <!--
