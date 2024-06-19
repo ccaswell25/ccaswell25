@@ -1,5 +1,5 @@
 ### CARLY CASWELL 👋
-I've recently completed my Master of Environmental Data Science at the University of California, Santa Barbara.
+I've recently completed my Master of Environmental Data Science degree at the University of California, Santa Barbara.
 
 😄 Pronouns: she/her
 👩‍💻 My Personal Website: https://ccaswell25.github.io/ 
