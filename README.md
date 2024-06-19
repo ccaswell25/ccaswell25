@@ -1,17 +1,17 @@
 ### CARLY CASWELL 👋
-I'm a current Master of Environmental Data Science student at the University of California, Santa Barbara.
+I've recently completed my Master of Environmental Data Science at the University of California, Santa Barbara.
 
 😄 Pronouns: she/her
 👩‍💻 My Personal Website: https://ccaswell25.github.io/ 
 📫 How to reach me: ccaswell@bren.ucsb.edu
 
 What am I up to? 
- 🔭 I’m currently working on gettig my Masters in Data Science! I'm also a Teaching Assistant for Entrepreneurship through the Technology Management Program at UCSB.
- 🌱 I’m currently learning about: machine learning for R, ethics and bias in data science, data visualization and communication, & working on a project to calculate total emissions for Darn Tough Vermont (using the GHG Protocol). 
+ 🔭 I’ve very recently completed my Master's in Data Science! I am now in the job-searching process, eager to apply my skills to real-world data science applications.
+ 🌱 I’m currently learning about: machine learning in R, ethics and bias in data science, data visualization and communication, & working on a project to calculate total emissions for Darn Tough Vermont (using the GHG Protocol). 
 
 
 What do I like to do? 
-🏃‍♀️ Run! I'm running my second marathon soon.
+🏃‍♀️ Run! 
 🥾 Hike in the Santa Barbara mountains
 ⛷ Ski in the Sierras
 🏄‍♀️ Surf when there's waves!
@@ -19,9 +19,10 @@ What do I like to do?
 🐶 Walk my dog!
 
 ### Experience:
--5 years in Software Technology Consulting 
+-5 years in Software Technology Consulting and Project Management 
+
 ### Education:
--Master of Environmental Data Science - University of California, Santa Barbara - Expected June 2024
+-Master of Environmental Data Science - University of California, Santa Barbara - June 2024
 
 -Bachelor of Science in Business Administration - University of Vermont - May 2018
 
