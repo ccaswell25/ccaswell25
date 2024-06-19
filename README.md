@@ -6,16 +6,24 @@ I've recently completed my Master of Environmental Data Science degree at the Un
 📫 How to reach me: ccaswell@bren.ucsb.edu
 
 What am I up to? 
+
  🔭 I’ve very recently completed my Master's in Data Science! I am now in the job-searching process, eager to apply my skills to real-world data science applications.
+ 
  🌱 I’m currently learning about: machine learning in R, ethics and bias in data science, data visualization and communication, & working on a project to calculate total emissions for Darn Tough Vermont (using the GHG Protocol). 
 
 
 What do I like to do? 
+
 🏃‍♀️ Run! 
+
 🥾 Hike in the Santa Barbara mountains
+
 ⛷ Ski in the Sierras
+
 🏄‍♀️ Surf when there's waves!
+
 🧗‍♀️ Newbie climber!
+
 🐶 Walk my dog!
 
 ### Experience:
