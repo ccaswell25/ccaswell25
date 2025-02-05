@@ -1,15 +1,15 @@
 ### CARLY CASWELL 👋
-I've recently completed my Master of Environmental Data Science degree at the University of California, Santa Barbara.
+I recently completed my Master of Environmental Data Science degree at the University of California, Santa Barbara and am working as a Data Analyst for Rincon Consultants.
 
 😄 Pronouns: she/her
 👩‍💻 My Personal Website: https://ccaswell25.github.io/ 
-📫 How to reach me: ccaswell@bren.ucsb.edu
+📫 How to reach me: ccaswell25@gmail.com
 
 What am I up to? 
 
- 🔭 I’ve very recently completed my Master's in Data Science! I am now in the job-searching process, eager to apply my skills to real-world data science applications.
+ 🔭 I’ve recently completed my Master's in Data Science! I am now applying my skills learned getting my degree to the Environmental Consulting world
  
- 🌱 I’m currently learning about: machine learning in R, ethics and bias in data science, data visualization and communication, & working on a project to calculate total emissions for Darn Tough Vermont (using the GHG Protocol). 
+ 🌱 I’m currently learning about: ai for developers, Azure tools, data privacy & security, and how to streamline data pipelines.
 
 
 What do I like to do? 
@@ -20,11 +20,11 @@ What do I like to do?
 
 ⛷ Ski in the Sierras
 
-🏄‍♀️ Surf when there's waves!
+🏄‍♀️ Surf when there's waves
 
-🧗‍♀️ Newbie climber!
+🧗‍♀️ Newbie climber
 
-🐶 Walk my dog!
+🐶 Walk my dog
 
 ### Experience:
 -5 years in Software Technology Consulting and Project Management 
